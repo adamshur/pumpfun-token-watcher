@@ -1,4 +1,4 @@
-# pump.fun Token Watcher
+# Pump.fun Token Watcher
 
 A Python-based monitoring system for tracking cryptocurrency token transactions and liquidity events in real-time via WebSocket connection to [PumpPortal](https://pumpportal.fun/), which transmits data from [pump.fun](https://pump.fun/), your favorite Solana memecoin launching platform.
 
