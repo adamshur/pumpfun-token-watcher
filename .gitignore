@@ -1,0 +1,20 @@
+# Local database
+token_data.db
+token_data.db-wal
+token_data.db-shm
+
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+venv/
+env/
+venv.bak/
+env.bak/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
