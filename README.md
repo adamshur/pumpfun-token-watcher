@@ -21,7 +21,7 @@ I personally was able to run the program for a week straight with no issues, dur
 ```bash
 git clone https://github.com/yourusername/pump_fun_watcher.git
 cd pump_fun_watcher
-poetry install  # or pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Configuration
